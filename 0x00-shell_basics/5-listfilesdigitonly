@@ -1,3 +1,2 @@
 #!/bin/bash
-ls -la /usr /id
-ls -lna
+ls -na
