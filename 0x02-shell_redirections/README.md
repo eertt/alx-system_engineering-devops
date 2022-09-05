@@ -1,1 +1,1 @@
-a script that displays the 10 newest files in the current directory.
+a script that displays a confused smiley
