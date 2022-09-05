@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lapmnv
+ls -p | grep -v / | tr n ,
