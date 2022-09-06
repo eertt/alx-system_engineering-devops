@@ -1,1 +1,1 @@
-a script that creates an alias.
+the shell looks into when looking for a program.
