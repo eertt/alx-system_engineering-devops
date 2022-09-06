@@ -1,1 +1,1 @@
-the shell looks into when looking for a program.
+a script that lists environment variables.
