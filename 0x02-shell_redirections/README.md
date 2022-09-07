@@ -1,1 +1,1 @@
-a script that counts the number of directories and sub-directories in the current directory.
+a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
